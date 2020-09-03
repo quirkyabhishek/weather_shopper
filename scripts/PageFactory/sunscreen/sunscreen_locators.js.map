@@ -1,0 +1,1 @@
+{"version":3,"file":"sunscreen_locators.js","sourceRoot":"","sources":["../../../PageFactory/sunscreen/sunscreen_locators.ts"],"names":[],"mappings":";AAAA,2CAA8B;AAE9B,iBAAS;IACL,aAAa,EAAE,eAAE,CAAC,GAAG,CAAC,YAAY,CAAC;IACnC,WAAW,EAAE,eAAE,CAAC,OAAO,CAAC,IAAI,CAAC;IAC7B,QAAQ,EAAE,eAAE,CAAC,GAAG,CAAC,+BAA+B,CAAC;IACjD,QAAQ,EAAE,eAAE,CAAC,GAAG,CAAC,mBAAmB,CAAC;CACxC,CAAA"}
